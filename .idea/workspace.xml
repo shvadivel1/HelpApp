@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4738157a-0f9f-41b6-af06-d093948a54a8" name="Changes" comment="added sb2pgpy file" />
+    <list default="true" id="4738157a-0f9f-41b6-af06-d093948a54a8" name="Changes" comment="delete sb2pg.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711182508943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete sb2pg.py">
+      <option name="closed" value="true" />
+      <created>1711182675213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711182675213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="added sb2pgpy file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sb2pgpy file" />
+    <MESSAGE value="delete sb2pg.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete sb2pg.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
